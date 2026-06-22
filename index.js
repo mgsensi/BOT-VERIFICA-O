@@ -6,7 +6,7 @@ const app = express();
 // ==========================================
 // CONFIGURAÇÕES - PREENCHA COM SEUS DADOS:
 // ==========================================
-const TOKEN_DO_BOT = "MTUwMTQ1OTYyMTI1OTI0NzYxNg.GAeJXQ.yQkEjWqfUPbYox-bqgmB9D90se4jwi7TKRLyMo";
+const TOKEN_DO_BOT = "MTUwMTQ1OTYyMTI1OTI0NzYxNg.GqpqVR.ZaMtTNrml7uVKkzbPIao-ZkSnb9IxniLjOlSBU";
 const ID_DO_SERVIDOR = "1488414878212296874";
 const ID_DO_CARGO = "1518425467361951745";
 
