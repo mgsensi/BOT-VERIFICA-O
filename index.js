@@ -15,11 +15,11 @@ const CLIENT_ID = "1501459621259247616";
 const CLIENT_SECRET = "cKQA5tOwjSdl-HfxLbRpCeXmeDqYKyQy";
 
 // Chaves do Cloudflare Turnstile (Captcha):
-const CHAVE_SECRETA_CLOUDFLARE = "COLE_AQUI_A_CHAVE_SECRETA";
-const CHAVE_DO_SITE_CLOUDFLARE = "COLE_AQUI_A_CHAVE_DO_SITE";
+const CHAVE_SECRETA_CLOUDFLARE = "1x0000000000000000000000000000000AA";
+const CHAVE_DO_SITE_CLOUDFLARE = "1x00000000000000000000AA";
 
 // Link final que o Render vai te dar (vamos atualizar depois):
-const LINK_DO_RENDER = "https://NOME-DO-SEU-APP.onrender.com"; 
+const LINK_DO_RENDER = "https://bot-verificao-yyrv.onrender.com"; 
 // ==========================================
 
 const bot = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMembers] });
